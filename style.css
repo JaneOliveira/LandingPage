@@ -271,13 +271,23 @@ input:hover, textarea:hover, input:focus, textarea:focus {
     color: rgb(255, 248, 248);
 }
 
-textarea {
+.textarea {
     width: 400px;
     height: 200px;
     line-height: 20px;
     max-width: 400px;
     padding: 5px;
 }
+
+@media (max-width: 640px) {
+  .textarea{
+    width: 300px;
+    height: 200px;
+    line-height: 20px;
+  }
+  
+}
+
 input{
     width: 400px;
     height: 20px;
@@ -289,10 +299,9 @@ input{
 
 @media (max-width: 640px) {
   .input{
-    width: 400px;
+    width: 300px;
     height: 20px;
     line-height: 20px;
-    max-width: 400px;
   }
   
 }
