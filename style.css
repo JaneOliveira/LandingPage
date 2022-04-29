@@ -146,7 +146,7 @@ display: none;
     float: left;
     border: thin solid;
     padding: 5px;
-    margin: 45px 45px 25px 0;
+    margin: 45px 45px 25px 0px;
 }
 
 @media (max-width: 640px) {
@@ -164,7 +164,7 @@ display: none;
     float: right;
     border: thin solid;
     padding: 5px;
-    margin: 45px 25px 25px 0;
+    margin: 45px 25px 25px 0px;
 }
 
 @media (max-width: 640px) {
@@ -181,7 +181,7 @@ display: none;
     float: left;
     border: thin solid;
     padding: 5px;
-    margin: 100px 25px 60px 0;
+    margin: 100px 25px 60px 0px;
 }
 
 @media (max-width: 640px) {
@@ -281,10 +281,10 @@ input:hover, textarea:hover, input:focus, textarea:focus {
 
 @media (max-width: 640px) {
   .textarea{
-    width: 400px;
+    width: 300px;
     height: 200px;
     line-height: 20px;
-    max-width: 400px;
+    max-width: 300px;
   }
   
 }
@@ -300,10 +300,10 @@ input{
 
 @media (max-width: 640px) {
   .input{
-    width: 400px;
+    width: 300px;
     height: 20px;
     line-height: 20px;
-    max-width: 400px;
+    max-width: 300px;
     margin: 0px 0px 0px 0px;
   }
   
