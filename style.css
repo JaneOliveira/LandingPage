@@ -92,7 +92,7 @@ display: none;
   .conteudo-principal{
     font-family: 'Righteous', cursive;
     font-weight: 400;
-    font-size: 50px;
+    font-size: 45px;
     color: #FFF2E7;
   }
   
@@ -152,7 +152,7 @@ display: none;
 @media (max-width: 640px) {
 
   .conteudo-secundario-imagem{
-    height: 250px;
+    height: 200px;
     float: center;
   }
   
@@ -169,7 +169,7 @@ display: none;
 @media (max-width: 640px) {
 
   .conteudo-secundario-imagem2{
-    height: 250px;
+    height: 200px;
     float: center;
   }
   
@@ -185,7 +185,7 @@ display: none;
 @media (max-width: 640px) {
 
   .conteudo-secundario-imagem3{
-    height: 250px;
+    height: 200px;
     float: center;
   }
   
