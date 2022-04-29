@@ -258,6 +258,7 @@ input:hover, textarea:hover, input:focus, textarea:focus {
     font-weight: bold;
     
 }
+
 .enviar {
     background-color: #da5063;
     height: 40px;
@@ -284,6 +285,17 @@ input{
     max-width: 400px;
     padding: 5px;
     margin: 0px 0px 5px 27px;
+}
+
+@media (max-width: 640px) {
+  .input{
+    width: 400px;
+    height: 20px;
+    line-height: 20px;
+    max-width: 400px;
+    padding: 5px;
+  }
+  
 }
 
 form label {
