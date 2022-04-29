@@ -27,9 +27,18 @@ body {
   height: 120px;
 }
 
-.cabecalho-menu {
+
+.cabecalho-menu{
   display: flex;
   gap: 20px;
+}
+
+@media (max-width: 640px) {
+
+.cabecalho-menu {
+display: none;
+}
+
 }
 
 .cabecalho-menu-item {
@@ -97,6 +106,14 @@ body {
   padding: 5px;
   margin: 45px 45px 25px 0;
 }
+
+@media (max-width: 640px) {
+
+  .conteudo-principal-imagem{
+    height: 200px;
+  }
+  
+  }
 
 
 .conteudo-secundario-imagem {
