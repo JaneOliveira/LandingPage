@@ -281,9 +281,10 @@ input:hover, textarea:hover, input:focus, textarea:focus {
 
 @media (max-width: 640px) {
   .textarea{
-    width: 300px;
+    width: 400px;
     height: 200px;
     line-height: 20px;
+    max-width: 400px;
   }
   
 }
@@ -299,9 +300,10 @@ input{
 
 @media (max-width: 640px) {
   .input{
-    width: 300px;
+    width: 400px;
     height: 20px;
     line-height: 20px;
+    max-width: 400px;
     margin: 0px 0px 0px 0px;
   }
   
