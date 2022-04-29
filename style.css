@@ -89,7 +89,7 @@ display: none;
 }
 
 @media (max-width: 640px) {
-  .conteudo-principal{
+  .conteudo-principal-escrito-titulo{
     font-family: 'Righteous', cursive;
     font-weight: 400;
     font-size: 40px;
