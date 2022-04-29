@@ -134,6 +134,7 @@ display: none;
   .conteudo-principal-imagem{
     height: 300px;
     float: center;
+    margin: 10px 10px 10px 10px;
   }
   
 }
