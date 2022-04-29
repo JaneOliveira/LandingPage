@@ -152,8 +152,9 @@ display: none;
 @media (max-width: 640px) {
 
   .conteudo-secundario-imagem{
-    height: 200px;
+    height: 300px;
     float: center;
+    margin: 10px 10px 10px 0;
   }
   
 }
@@ -169,8 +170,9 @@ display: none;
 @media (max-width: 640px) {
 
   .conteudo-secundario-imagem2{
-    height: 200px;
+    height: 300px;
     float: center;
+    margin: 10px 10px 10px 0;
   }
   
 }
@@ -185,8 +187,10 @@ display: none;
 @media (max-width: 640px) {
 
   .conteudo-secundario-imagem3{
-    height: 200px;
+    height: 300px;
     float: center;
+    margin: 10px 10px 10px 0;
+}
   }
   
 }
