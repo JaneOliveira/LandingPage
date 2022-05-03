@@ -1,2 +1,4 @@
 # LandingPage
-Página web elabora para treinamento em HTML, CSS, JS
+Página web elaborada no curso Construdelas Front-end para treinamento em HTML, CSS, JS.
+
+
